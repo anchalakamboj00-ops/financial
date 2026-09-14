@@ -1,0 +1,7 @@
+Project: AI Financial Advisor
+
+Problem Statement:
+Users struggle to understand financial information.
+
+Solution Statement:
+Explain financial data and provide educational insights.
